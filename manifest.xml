@@ -1,0 +1,14 @@
+<package>
+  <description brief="reem_msgs">
+    Messages specific to the REEM robot.
+  </description>
+  <author>Jordan Palacios</author>
+  <license>Modified BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/reem_msgs</url>
+  <depend package="std_msgs"/>
+  <depend package="roslib"/>
+
+</package>
+
+
