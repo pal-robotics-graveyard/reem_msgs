@@ -1,0 +1,9 @@
+<stack>
+  <description brief="reem_msgs">reem_msgs</description>
+  <author>Maintained by Adolfo Rodriguez Tsouroukdissian</author>
+  <license>Modified BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/reem_msgs</url>
+  <depend stack="ros" /> <!-- roslib -->
+  <depend stack="ros_comm" /> <!-- std_msgs -->
+</stack>
